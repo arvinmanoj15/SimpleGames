@@ -16,7 +16,7 @@ Hey there! Welcome to SimpleGames, a collection of simple games written in C++ t
 
 # Contributions
 
-Do you have an exciting game idea or want to improve an existing game? We'd love to have you contribute! Feel free to add your own games or enhancements to the existing ones.
+Do you have an exciting game idea or want to improve an existing game? I'd love to have you contribute! Feel free to add your own games or enhancements to the existing ones.
 
 Get ready for some simple yet entertaining gaming experiences with SimpleGames!
 
