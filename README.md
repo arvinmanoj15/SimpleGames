@@ -7,6 +7,7 @@ Hey there! Welcome to SimpleGames, a collection of simple games written in C++ t
     Number Guess: Put your number-guessing abilities to the test by attempting to guess the secret number.
     Rock, Paper, Scissors: Engage in the classic game of Rock, Paper, Scissors against the computer.
     Word Jumble: Unscramble the jumbled words and showcase your word-solving prowess.
+    Dice Rolling: Roll the virtual dice and leave it to chance!
 
 # How to Play
 
